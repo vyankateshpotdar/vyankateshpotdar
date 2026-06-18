@@ -9,9 +9,9 @@
   ╚═══╝     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### 🤖 building bots that watch prices, ping crypto moves, and keep Discord servers alive — one cron job at a time
+### 💤 if it's repetitive, boring, or annoying — i'll write a script so i never have to do it again
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Python+%2B+TypeScript+Automation+Builder;Backend+%26+API+Integration+Enthusiast;Founder+%40+Square+Focus+Chess+Club;CS+Student+%40+MIT-ADT+University" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=automating+the+boring+stuff+since+2025;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality;turning+%22ugh+i+have+to+do+this%22+into+code" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
@@ -22,28 +22,31 @@
 
 <br>
 
-## 👨‍💻 About Me
+## 👨‍💻 about me (the readable version)
 
 ```python
 class Vyankatesh:
     def __init__(self):
-        self.role = "CS Undergrad @ MIT-ADT University"
+        self.role = "CS undergrad, professional task-automator"
         self.grad_year = 2029
-        self.location = "Pune, Maharashtra, India"
-        self.focus = ["Python Automation", "TypeScript", "API Integrations"]
-        self.currently_building = "Multi-platform price tracker bot 📉🔔"
-        self.also_runs = "Square Focus Chess Club ♟️ (since 2020)"
+        self.location = "Pune, India"
+        self.stack = ["Python", "TypeScript", "FastAPI", "PostgreSQL"]
+        self.red_flags = ["forgets to check Amazon manually", "lets bots do it"]
+        self.actually_doing = "building a bot army so boring tasks fear me"
 
-    def say_hi(self):
-        print("Always shipping something small and useful!")
+    def manual_labor(self, task):
+        if task.is_repetitive or task.is_boring:
+            return "nah, writing a script for that 🤖"
+        return "fine i'll do it myself this once"
 
 me = Vyankatesh()
-me.say_hi()
+print(me.manual_labor(task="checking 5 sites for a price drop"))
+# >>> nah, writing a script for that 🤖
 ```
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ stuff i use to avoid doing things by hand
 
 <div align="center">
 
@@ -78,7 +81,7 @@ me.say_hi()
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 things i built so i don't have to think
 
 <table>
 <tr>
@@ -87,7 +90,7 @@ me.say_hi()
 ### 📉 Price Tracker & Alert Bot
 *May 2026 – Present*
 
-Telegram bot tracking prices across Amazon, Flipkart, Ajio, Myntra & Meesho with real-time drop alerts and multi-product watchlists.
+Tired of checking Amazon/Flipkart/Ajio/Myntra/Meesho 47 times a day for a price drop. Now my bot does the stalking and pings me when it's actually worth buying.
 
 `TypeScript` `Node.js` `Prisma` `PostgreSQL` `node-cron`
 
@@ -97,7 +100,7 @@ Telegram bot tracking prices across Amazon, Flipkart, Ajio, Myntra & Meesho with
 ### 🔔 Discord Bump Reminder Bot
 *Aug 2025 – Present*
 
-Automates server bump reminders every 2 hours with role-mentions, `!nextbump` command, and 24/7 uptime via `keep_alive()`.
+Bumping a server every 2 hours manually = a war crime. This bot remembers so humans don't have to. `!nextbump` if you're curious how cooked you are.
 
 `Python` `discord.py` `AsyncIO`
 
@@ -109,7 +112,7 @@ Automates server bump reminders every 2 hours with role-mentions, `!nextbump` co
 ### ₿ Real-time BTC Price Alert Bot
 *Aug 2025 – Dec 2025*
 
-FastAPI service monitoring BTC price 24/7, firing Telegram alerts whenever price swings ±$500.
+Built so I'd stop refreshing my crypto app every 5 minutes like a maniac. Pings Telegram the moment BTC moves ±$500 — anxiety, automated.
 
 `Python` `FastAPI` `Uvicorn` `Binance API`
 
@@ -119,7 +122,7 @@ FastAPI service monitoring BTC price 24/7, firing Telegram alerts whenever price
 ### ♟️ Square Focus Chess Club
 *Founder & Community Manager, 2020 – Present*
 
-Multi-platform chess community across Discord, Instagram & YouTube — tournaments, content, and global player engagement.
+Not a bot, an actual community — chess nerds across Discord, Instagram & YouTube. Proof I touch grass (and 64 squares of it) too.
 
 `Community Building` `Discord Mgmt` `Social Strategy`
 
@@ -146,16 +149,16 @@ Multi-platform chess community across Discord, Instagram & YouTube — tournamen
 
 <br>
 
-## 🎯 Currently
+## 🎯 current status
 
 ```
-┌─────────────────────────────────────────────┐
-│  🔭  Building backend automation tools       │
-│  🌱  Learning advanced API & scraping infra  │
-│  ♟️  Growing Square Focus Chess Club          │
-│  📣  Social Media Team @ ACM-W, MIT-ADT       │
-│  ⚡  Open to internships & collab projects   │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│  🔭  building bots so future-me does less work    │
+│  🌱  leveling up on scraping & API witchcraft     │
+│  ♟️  running a chess club, unofficial hobby: chaos │
+│  📣  social media for ACM-W (yes i make memes)    │
+│  ⚡  dms open for internships & cool collabs       │
+└──────────────────────────────────────────────────┘
 ```
 
 <br>
@@ -170,6 +173,6 @@ Multi-platform chess community across Discord, Instagram & YouTube — tournamen
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vyankateshpotdar&color=00FF9C&style=flat-square&label=Profile+Views)
 
-**"Building one bot, one bump, one price alert at a time."** 🚀
+**"life's too short to do boring tasks twice — write the script."** 💀🤖
 
 </div>
