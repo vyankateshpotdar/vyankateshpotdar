@@ -11,7 +11,7 @@
 
 ### 💤 if it's repetitive, boring, or annoying — i'll write a script so i never have to do it again
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=automating+the+boring+stuff+since+2025;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality;turning+%22ugh+i+have+to+do+this%22+into+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=automating+the+boring+stuff+since+2023;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality;turning+%22ugh+i+have+to+do+this%22+into+code" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
