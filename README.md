@@ -1,4 +1,4 @@
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/city.51162ace21.svg"><img src="assets/light/city.fe2c5fe65a.svg" width="100%" alt="Commit City: a Bengaluru that grows with my GitHub contributions, 412 so far since 2023. It has 9 buildings, one for each of my public repos (BITCOIN-500, CPP-LAB-SEM-II, Room_Sensor, landingpage-web, Smoke-Detection-for-Dump-Yard and 4 more). Commit Soudha, the town hall, starts going up at 800 contributions. The Commit Metro train runs through it with my last 53 weeks, one coach per week and one window per day, lit for days I committed, and stops at Commit Street, where $VYK trades at ₹56.80. It's dusk in Bengaluru."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/city.19a78bebed.svg"><img src="assets/light/city.e0c51abe2d.svg" width="100%" alt="Commit City: a Bengaluru that grows with my GitHub contributions, 413 so far since 2023. It has 9 buildings, one for each of my public repos (BITCOIN-500, CPP-LAB-SEM-II, Room_Sensor, landingpage-web, Smoke-Detection-for-Dump-Yard and 4 more). Commit Soudha, the town hall, starts going up at 800 contributions. The Commit Metro train runs through it with my last 53 weeks, one coach per week and one window per day, lit for days I committed, and stops at Commit Street, where $VYK trades at ₹56.80. It's dusk in Bengaluru."></picture></p>
 
 <p align="center"><sub>The sky follows the time in Bengaluru. Pick a time of day to see the city then.</sub><br>
 <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/dawn.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-dawn.c0781e5e99.svg"><img src="assets/light/light-dawn.6c489f0a15.svg" height="34" alt="See Commit City at dawn"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/day.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-day.76f0d9d739.svg"><img src="assets/light/light-day.ba0bb15de2.svg" height="34" alt="See Commit City at day"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/dusk.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-dusk.b32a862c01.svg"><img src="assets/light/light-dusk.1ed723678d.svg" height="34" alt="See Commit City at dusk"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/night.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-night.85cbf61604.svg"><img src="assets/light/light-night.2ccc04edca.svg" height="34" alt="See Commit City at night"></picture></a></p>
@@ -19,9 +19,9 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sign.7bbc92792e.svg"><img src="assets/light/sign.6c69be064b.svg" width="100%" alt="COMMIT STREET, in golden lights"></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ticker.8dcf7459fa.svg"><img src="assets/light/ticker.02e8f4519c.svg" width="100%" alt="$VYK ₹56.80 +0.00%. market closed. $VYK lists on Commit Street at ₹56.80, priced off 70 backtested sessions of commits"></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ticker.c421d7bc3c.svg"><img src="assets/light/ticker.67d28ce6de.svg" width="100%" alt="$VYK ₹56.80 +0.00%. market closed. $VYK lists on Commit Street at ₹56.80, priced off 70 backtested sessions of commits"></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/quote.13f61b8759.svg"><img src="assets/light/quote.7003851982.svg" width="100%" alt="$VYK at ₹56.80, +0.00% at last close, market closed. Fair value from commits: ₹63.25. Circuit band ₹51.15 to ₹62.45."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/quote.c652f65642.svg"><img src="assets/light/quote.b3783f2cb6.svg" width="100%" alt="$VYK at ₹56.80, +0.00% at last close, market closed. Fair value from commits: ₹65.20. Circuit band ₹51.15 to ₹62.45."></picture></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/chart.9035a30794.svg"><img src="assets/light/chart.fd37fb1b36.svg" width="100%" alt="Daily candlestick chart of $VYK over 70 sessions from 27 Jul, with the fair value implied by commit activity. Last price 56.80."></picture></p>
 
@@ -34,7 +34,7 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/book.e2385fe328.svg"><img src="assets/light/book.c7386056cf.svg" width="100%" alt="No shareholders yet. Market is closed. New orders go through at 09:15 IST on Tue 03 Nov."></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fundamentals.a7094c265a.svg"><img src="assets/light/fundamentals.3d91e9f001.svg" width="100%" alt="Fundamentals from GitHub: 6 contributions in 30 days, 271 in a year, 1-day streak, 21 public repos, 0 stars, 5 followers, 4 merged PRs. Top languages: TypeScript, C++, JavaScript."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fundamentals.4f10ccab7a.svg"><img src="assets/light/fundamentals.c0674837e7.svg" width="100%" alt="Fundamentals from GitHub: 7 contributions in 30 days, 272 in a year, 1-day streak, 21 public repos, 0 stars, 5 followers, 4 merged PRs. Top languages: TypeScript, C++, JavaScript."></picture></p>
 
 <details>
 <summary>How does this work?</summary>
@@ -47,7 +47,7 @@
 <p>There's no server behind this. A GitHub Action runs at the open, at the close and whenever someone places an order, then redraws these images. Every trade is in <a href="data/market.json">data/market.json</a>.</p>
 </details>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.68230860cd.svg"><img src="assets/light/footer.49ba8e890b.svg" width="100%" alt="Just a game with fake money. Last updated 02 Nov 2026, 18:28 IST."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.642d006443.svg"><img src="assets/light/footer.466a4db5bf.svg" width="100%" alt="Just a game with fake money. Last updated 02 Nov 2026, 18:32 IST."></picture></p>
 
 
 
