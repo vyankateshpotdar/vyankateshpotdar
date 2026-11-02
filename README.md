@@ -1,20 +1,33 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=vyankatesh&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=automating%20the%20boring%20stuff%20since%202023&descSize=16&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
+
+<br>
+
 <img src="koi/koi.gif" width="256" alt="My koi" />
-### 💤 if it's repetitive, boring, or annoying — i'll write a script so i never have to do it again
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=automating+the+boring+stuff+since+2023;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality;turning+%22ugh+i+have+to+do+this%22+into+code" alt="Typing SVG" />
+<sub>🪷 my koi swims in a new shape every night, drawn from my own commits 🪷</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=if+it's+repetitive%2C+boring%2C+or+annoying;i'll+write+a+script+so+i+never+do+it+again;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality" alt="Typing SVG" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vyankateshpotdar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyankateshpotdar411@gmail.com)
-[![Location](https://img.shields.io/badge/Pune,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+![Location](https://img.shields.io/badge/Pune,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 <br>
 
-## 👨‍💻 about me (the readable version)
+<div align="center">
+
+### 🌊 about me
+
+</div>
 
 ```python
 class Vyankatesh:
@@ -36,11 +49,11 @@ print(me.manual_labor(task="checking 5 sites for a price drop"))
 # >>> nah, writing a script for that 🤖
 ```
 
-<br>
-
-## 🛠️ stuff i use to avoid doing things by hand
-
 <div align="center">
+
+﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
+
+### 🛠️ what i use to avoid doing things by hand
 
 **Languages**
 
@@ -69,17 +82,17 @@ print(me.manual_labor(task="checking 5 sites for a price drop"))
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Data Viz](https://img.shields.io/badge/Data_Visualization-6F42C1?style=for-the-badge&logo=tableau&logoColor=white)
 
+﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
+
+### 🚀 things i built so i don't have to think
+
 </div>
-
-<br>
-
-## 🚀 things i built so i don't have to think
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📉 Price Tracker & Alert Bot
+#### 📉 Price Tracker & Alert Bot
 *May 2026 – Present*
 
 Tired of checking Amazon/Flipkart/Ajio/Myntra/Meesho 47 times a day for a price drop. Now my bot does the stalking and pings me when it's actually worth buying.
@@ -89,7 +102,7 @@ Tired of checking Amazon/Flipkart/Ajio/Myntra/Meesho 47 times a day for a price 
 </td>
 <td width="50%" valign="top">
 
-### 🔔 Discord Bump Reminder Bot
+#### 🔔 Discord Bump Reminder Bot
 *Aug 2025 – Present*
 
 Bumping a server every 2 hours manually = a war crime. This bot remembers so humans don't have to. `!nextbump` if you're curious how cooked you are.
@@ -101,7 +114,7 @@ Bumping a server every 2 hours manually = a war crime. This bot remembers so hum
 <tr>
 <td width="50%" valign="top">
 
-### ₿ Real-time BTC Price Alert Bot
+#### ₿ Real-time BTC Price Alert Bot
 *Aug 2025 – Dec 2025*
 
 Built so I'd stop refreshing my crypto app every 5 minutes like a maniac. Pings Telegram the moment BTC moves ±$500 — anxiety, automated.
@@ -111,7 +124,7 @@ Built so I'd stop refreshing my crypto app every 5 minutes like a maniac. Pings 
 </td>
 <td width="50%" valign="top">
 
-### ♟️ Square Focus Chess Club
+#### ♟️ Square Focus Chess Club
 *Founder & Community Manager, 2020 – Present*
 
 Not a bot, an actual community — chess nerds across Discord, Instagram & YouTube. Proof I touch grass (and 64 squares of it) too.
@@ -122,26 +135,30 @@ Not a bot, an actual community — chess nerds across Discord, Instagram & YouTu
 </tr>
 </table>
 
-<br>
+<div align="center">
 
-## 🎓 Education
+﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
 
-> **B.Tech – Computer Science & Engineering**
-> MIT-ADT University, Pune | 2025 – 2029 *(First Year)*
+### 🎓 education
 
-<br>
+**B.Tech – Computer Science & Engineering**
+MIT-ADT University, Pune · 2025 – 2029 *(First Year)*
 
-## 📜 Certifications
+﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
 
-- 🏆 Advanced C++ Training — Spoken Tutorial, IIT Bombay *(Apr 2026)*
-- 🐍 CS50P: Introduction to Programming with Python — Harvard University *(Aug 2025)*
-- 💻 C Training — IIT Bombay *(Nov 2025)*
-- 📊 Deloitte Australia – Data Analytics Job Simulation — Forage *(Dec 2025)*
-- 🤖 AI Aware Badge — Digital India Corporation *(Jul 2025)*
+### 📜 certifications
 
-<br>
+🏆 Advanced C++ Training — Spoken Tutorial, IIT Bombay *(Apr 2026)*
+🐍 CS50P: Introduction to Programming with Python — Harvard University *(Aug 2025)*
+💻 C Training — IIT Bombay *(Nov 2025)*
+📊 Deloitte Australia – Data Analytics Job Simulation — Forage *(Dec 2025)*
+🤖 AI Aware Badge — Digital India Corporation *(Jul 2025)*
 
-## 🎯 current status
+﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
+
+### 🎯 current status
+
+</div>
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -153,18 +170,18 @@ Not a bot, an actual community — chess nerds across Discord, Instagram & YouTu
 └──────────────────────────────────────────────────┘
 ```
 
-<br>
-
 <div align="center">
 
-### 📫 Let's Connect
+### 📫 let's connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/vyankateshpotdar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail)](mailto:vyankateshpotdar411@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vyankateshpotdar&color=00FF9C&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vyankateshpotdar&color=FF6B35&style=flat-square&label=Profile+Views)
 
 **"life's too short to do boring tasks twice — write the script."** 💀🤖
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&reversal=true" alt="footer" width="100%" />
 
 </div>
