@@ -1,0 +1,48 @@
+{
+  "login": "vyankateshpotdar",
+  "repo": "vyankateshpotdar/vyankateshpotdar",
+  "displayName": "Vyankatesh Potdar",
+  "buyMeACoffee": "",
+  "viewCounter": true,
+  "devUsername": "",
+  "symbol": "VYK",
+  "exchangeName": "Commit Street",
+  "listingPrice": 100,
+  "baseline30": 30,
+  "pullToFairValue": 0.2,
+  "impactPerShare": 0.0015,
+  "circuit": 0.1,
+  "tick": 0.05,
+  "maxQty": 25,
+  "whaleQty": 20,
+  "startingCash": 10000,
+  "cooldownMinutes": 0,
+  "dividendPerMergedPR": 2,
+  "allowOwnerTrading": false,
+  "backfillSessions": 70,
+  "chartSessions": 80,
+  "keepCandles": 400,
+  "market": {
+    "utcOffsetMinutes": 330,
+    "open": "09:15",
+    "close": "15:30",
+    "holidays": []
+  },
+  "city": {
+    "maxBuildings": 40,
+    "buildingBase": 25,
+    "buildingStep": 5,
+    "treeEvery": 20,
+    "maxTrees": 120,
+    "unlock": {
+      "darshini": 100,
+      "autos": 300,
+      "buses": 500,
+      "planes": 600
+    },
+    "soudha": {
+      "start": 800,
+      "done": 1500
+    }
+  }
+}

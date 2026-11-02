@@ -1,4 +1,57 @@
-[![Commit City](https://img.shields.io/badge/Commit_City-Visit-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineetjk/vineetjk)
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/city.5f7227103f.svg"><img src="assets/light/city.9cc7b69bb5.svg" width="100%" alt="Commit City: a Bengaluru that grows with my GitHub contributions, 412 so far since 2023. It has 9 buildings, one for each of my public repos (landingpage-web, ORBITRACE, Smart-Study-, BITCOIN-500, vexo and 4 more). Commit Soudha, the town hall, starts going up at 800 contributions. The Commit Metro train runs through it with my last 53 weeks, one coach per week and one window per day, lit for days I committed, and stops at Commit Street, where $VYK trades at ₹56.80. It's dusk in Bengaluru."></picture></p>
+
+<p align="center"><sub>The sky follows the time in Bengaluru. Pick a time of day to see the city then.</sub><br>
+<a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/dawn.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-dawn.c0781e5e99.svg"><img src="assets/light/light-dawn.6c489f0a15.svg" height="34" alt="See Commit City at dawn"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/day.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-day.76f0d9d739.svg"><img src="assets/light/light-day.ba0bb15de2.svg" height="34" alt="See Commit City at day"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/dusk.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-dusk.b32a862c01.svg"><img src="assets/light/light-dusk.1ed723678d.svg" height="34" alt="See Commit City at dusk"></picture></a> <a href="https://github.com/vyankateshpotdar/vyankateshpotdar/blob/HEAD/views/night.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/light-night.85cbf61604.svg"><img src="assets/light/light-night.2ccc04edca.svg" height="34" alt="See Commit City at night"></picture></a></p>
+
+
+
+<details>
+<summary>How Commit City works</summary>
+<br>
+<p>Everything in this city comes from my GitHub activity, and it grows as I commit. The first building cost 25 contributions and each one after costs 5 more, so it filled in quickly at first and grows slower now. It never shrinks.</p>
+<p>Each building is one of my public repos. Repos I pushed to in the last four months are glass towers, the ones from the last two years are apartment blocks, and older ones are tile-roof houses. The more I committed to a repo this year, the taller it is.</p>
+<p>The metro is my contribution graph: one coach per week and one window per day, lit on days I committed. The street under each coach is as busy as that week was. BMTC buses are pull requests merged this year, with the repo and PR number on the side, and the planes carry my DEV posts.</p>
+<p>Commit Soudha, the town hall, starts going up at 800 contributions and opens at 1,500. There's a new tree for every 20.</p>
+<p>The sky follows the time in Bengaluru. A GitHub Action redraws the city a few times a day, so there's no server and nothing to update by hand.</p>
+</details>
+
+<p align="center"><sub>City generator: <a href="https://github.com/vineetjk/vineetjk">Commit City</a>.</sub></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sign.7bbc92792e.svg"><img src="assets/light/sign.6c69be064b.svg" width="100%" alt="COMMIT STREET, in golden lights"></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ticker.b29240b737.svg"><img src="assets/light/ticker.726b501d0c.svg" width="100%" alt="$VYK ₹56.80 +0.00%. market closed. $VYK lists on Commit Street at ₹56.80, priced off 70 backtested sessions of commits"></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/quote.13f61b8759.svg"><img src="assets/light/quote.7003851982.svg" width="100%" alt="$VYK at ₹56.80, +0.00% at last close, market closed. Fair value from commits: ₹63.25. Circuit band ₹51.15 to ₹62.45."></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/chart.9035a30794.svg"><img src="assets/light/chart.fd37fb1b36.svg" width="100%" alt="Daily candlestick chart of $VYK over 70 sessions from 27 Jul, with the fair value implied by commit activity. Last price 56.80."></picture></p>
+
+<p align="center"><a href="https://github.com/vyankateshpotdar/vyankateshpotdar/issues/new?title=BUY%205%20%24VYK&amp;body=Hit%20**Create**%20and%20the%20Commit%20Street%20bot%20fills%20this%20order%20in%20about%20a%20minute.%0A%0A-%20Change%20the%20number%20in%20the%20title%20to%20trade%20anywhere%20from%201%20to%2025%20shares.%0A-%20Outside%20market%20hours%20(09%3A15%E2%80%9315%3A30%20IST%2C%20Mon%E2%80%93Fri)%20the%20order%20waits%20for%20the%20next%20opening%20bell.%20Close%20this%20issue%20to%20cancel%20it.%0A-%20You%20start%20with%20%E2%82%B910%2C000%20of%20play%20money.%20Nothing%20here%20is%20real."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/buy-5.4cfabf785d.svg"><img src="assets/light/buy-5.43bee2c14d.svg" width="180" alt="Buy 5 shares of $VYK"></picture></a>
+<a href="https://github.com/vyankateshpotdar/vyankateshpotdar/issues/new?title=BUY%2025%20%24VYK&amp;body=Hit%20**Create**%20and%20the%20Commit%20Street%20bot%20fills%20this%20order%20in%20about%20a%20minute.%0A%0A-%20Change%20the%20number%20in%20the%20title%20to%20trade%20anywhere%20from%201%20to%2025%20shares.%0A-%20Outside%20market%20hours%20(09%3A15%E2%80%9315%3A30%20IST%2C%20Mon%E2%80%93Fri)%20the%20order%20waits%20for%20the%20next%20opening%20bell.%20Close%20this%20issue%20to%20cancel%20it.%0A-%20You%20start%20with%20%E2%82%B910%2C000%20of%20play%20money.%20Nothing%20here%20is%20real."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/buy-25.d782130d70.svg"><img src="assets/light/buy-25.57ee0862d7.svg" width="180" alt="Buy 25 shares of $VYK"></picture></a>
+<a href="https://github.com/vyankateshpotdar/vyankateshpotdar/issues/new?title=SELL%205%20%24VYK&amp;body=Hit%20**Create**%20and%20the%20Commit%20Street%20bot%20fills%20this%20order%20in%20about%20a%20minute.%0A%0A-%20Change%20the%20number%20in%20the%20title%20to%20trade%20anywhere%20from%201%20to%2025%20shares.%0A-%20Outside%20market%20hours%20(09%3A15%E2%80%9315%3A30%20IST%2C%20Mon%E2%80%93Fri)%20the%20order%20waits%20for%20the%20next%20opening%20bell.%20Close%20this%20issue%20to%20cancel%20it.%0A-%20You%20start%20with%20%E2%82%B910%2C000%20of%20play%20money.%20Nothing%20here%20is%20real."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sell-5.03e4656b0f.svg"><img src="assets/light/sell-5.c4728894f1.svg" width="180" alt="Sell 5 shares of $VYK"></picture></a>
+<a href="https://github.com/vyankateshpotdar/vyankateshpotdar/issues/new?title=SELL%2025%20%24VYK&amp;body=Hit%20**Create**%20and%20the%20Commit%20Street%20bot%20fills%20this%20order%20in%20about%20a%20minute.%0A%0A-%20Change%20the%20number%20in%20the%20title%20to%20trade%20anywhere%20from%201%20to%2025%20shares.%0A-%20Outside%20market%20hours%20(09%3A15%E2%80%9315%3A30%20IST%2C%20Mon%E2%80%93Fri)%20the%20order%20waits%20for%20the%20next%20opening%20bell.%20Close%20this%20issue%20to%20cancel%20it.%0A-%20You%20start%20with%20%E2%82%B910%2C000%20of%20play%20money.%20Nothing%20here%20is%20real."><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/sell-25.ee465eefe1.svg"><img src="assets/light/sell-25.87fe230e8a.svg" width="180" alt="Sell 25 shares of $VYK"></picture></a></p>
+
+<p align="center"><sub>Buttons open a pre-filled issue. Hit <b>Create</b> to place your order.</sub></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/book.e2385fe328.svg"><img src="assets/light/book.c7386056cf.svg" width="100%" alt="No shareholders yet. Market is closed. New orders go through at 09:15 IST on Tue 03 Nov."></picture></p>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fundamentals.d330f8b704.svg"><img src="assets/light/fundamentals.35382d9a6c.svg" width="100%" alt="Fundamentals from GitHub: 6 contributions in 30 days, 271 in a year, 1-day streak, 21 public repos, 0 stars, 5 followers, 8 merged PRs. Top languages: TypeScript, Python, C++."></picture></p>
+
+<details>
+<summary>How does this work?</summary>
+<br>
+<p>The price follows my GitHub activity. A normal month for me is around 30 contributions, and that's worth ₹100 a share. If I stop coding for a month, that drops to half. When the market closes each day, the price moves 20% of the way toward whatever my last 30 days say it's worth.</p>
+<p>During the day you move it. Every share bought pushes it up 0.15%, every share sold pushes it down, and you pay the price after your own push. So buying and selling straight away loses you a little.</p>
+<p>It can't go more than 10% above or below the previous close. Once it hits that limit, buying (or selling, if it's falling) stops until the next day.</p>
+<p>The market is open 09:15 to 15:30 IST, Monday to Friday. Orders placed outside those hours wait for the next morning. Close your issue if you change your mind.</p>
+<p>You start with ₹10,000 of play money. Up to 25 shares per order. Whenever one of my pull requests gets merged, everyone holding shares gets ₹2 per share. I can't buy my own stock.</p>
+<p>There's no server behind this. A GitHub Action runs at the open, at the close and whenever someone places an order, then redraws these images. Every trade is in <a href="data/market.json">data/market.json</a>.</p>
+</details>
+
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.68230860cd.svg"><img src="assets/light/footer.49ba8e890b.svg" width="100%" alt="Just a game with fake money. Last updated 02 Nov 2026, 18:28 IST."></picture></p>
+
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vyankateshpotdar&amp;label=Profile%20views&amp;color=ff9933&amp;style=flat-square" alt="Profile views"></p>
 
 <div align="center">
 

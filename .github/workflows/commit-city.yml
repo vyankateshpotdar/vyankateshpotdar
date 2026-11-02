@@ -1,0 +1,79 @@
+name: Commit City
+
+on:
+  # GitHub can delay or skip scheduled runs, so the bells have backups. Any run catches up on a
+  # missed bell, and a run with nothing to do makes no commit.
+  schedule:
+    - cron: "47 3 * * 1-5" # 09:17 IST, just after the opening bell
+    - cron: "17,47 4-9 * * 1-5" # every 30 min, 09:47 to 15:17 IST
+    - cron: "3 10 * * 1-5" # 15:33 IST, just after the closing bell
+    - cron: "33 10 * * 1-5" # 16:03 IST, backup closing bell
+    # Commit City's sky follows Bengaluru's, so redraw it as the light changes, every day
+    - cron: "5 0 * * *" # 05:35 IST, dawn
+    - cron: "35 1 * * *" # 07:05 IST, day
+    - cron: "20 12 * * *" # 17:50 IST, dusk
+    - cron: "35 13 * * *" # 19:05 IST, night
+  # Redraw right away when the market code or config changes. The bot's own pushes never trigger this.
+  push:
+    branches: [main]
+    paths: [".github/workflows/commit-city.yml", "scripts/**", "vjk.config.json"]
+  issues:
+    types: [opened]
+  workflow_dispatch:
+
+permissions:
+  contents: write # commit the redrawn profile
+  issues: write # receipts and closing settled orders
+  actions: write # re-dispatch this workflow when a burst of orders outruns one tick
+
+jobs:
+  tick:
+    # Ignore ordinary issues. The title is only *tested* here; it never reaches a shell.
+    if: github.event_name != 'issues' || contains(github.event.issue.title, 'VYK')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    # One tick at a time. GitHub keeps only the newest pending run and cancels the rest, which is
+    # fine: every tick settles all open orders, so the survivor picks up the cancelled runs' work.
+    concurrency:
+      group: commit-city-vyk
+      cancel-in-progress: false
+    env:
+      BRANCH: ${{ github.ref_name }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # A queued run must start from the branch tip, not the commit it was queued at.
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Run the market and push
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }} # optional: fine-grained, read-only, counts private contributions
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3; do
+            node scripts/tick.js
+            git add README.md assets data views
+            if git diff --cached --quiet; then
+              echo "Nothing changed."
+              exit 0
+            fi
+            git commit --quiet --file .vjk/commit-message.txt
+            if git push --quiet origin "HEAD:$BRANCH"; then
+              exit 0
+            fi
+            echo "Push rejected (the branch moved). Replaying the tick on the new tip."
+            git fetch --quiet origin "$BRANCH"
+            git reset --quiet --hard "origin/$BRANCH"
+          done
+          exit 1
+
+      - name: Post receipts and close settled orders
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: node scripts/settle.js

@@ -1,0 +1,8 @@
+<p align="center"><a href="https://github.com/vyankateshpotdar">← Back to the live city</a></p>
+
+<p align="center"><img src="../assets/views/city-night.717f93816b.svg" width="100%" alt="Commit City: a Bengaluru that grows with my GitHub contributions, 412 so far since 2023. It has 9 buildings, one for each of my public repos (landingpage-web, ORBITRACE, Smart-Study-, BITCOIN-500, vexo and 4 more). Commit Soudha, the town hall, starts going up at 800 contributions. The Commit Metro train runs through it with my last 53 weeks, one coach per week and one window per day, lit for days I committed, and stops at Commit Street, where $VYK trades at ₹56.80. It's night in Bengaluru."></p>
+
+<p align="center"><a href="dawn.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/dark/light-dawn.c0781e5e99.svg"><img src="../assets/light/light-dawn.6c489f0a15.svg" height="34" alt="See Commit City at dawn"></picture></a> <a href="day.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/dark/light-day.76f0d9d739.svg"><img src="../assets/light/light-day.ba0bb15de2.svg" height="34" alt="See Commit City at day"></picture></a> <a href="dusk.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/dark/light-dusk.b32a862c01.svg"><img src="../assets/light/light-dusk.1ed723678d.svg" height="34" alt="See Commit City at dusk"></picture></a> <a href="night.md"><picture><source media="(prefers-color-scheme: dark)" srcset="../assets/dark/light-night.85cbf61604.svg"><img src="../assets/light/light-night.2ccc04edca.svg" height="34" alt="See Commit City at night"></picture></a></p>
+
+<p align="center"><sub>Commit City at night, drawn on 02 Nov. On my profile the city follows the time in Bengaluru.</sub></p>
+
