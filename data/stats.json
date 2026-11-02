@@ -1,32 +1,47 @@
 {
-  "source": "public",
+  "source": "graphql",
   "login": "vyankateshpotdar",
   "name": "Vyankatesh Potdar",
-  "avatarUrl": "https://avatars.githubusercontent.com/u/149468089?v=4",
+  "avatarUrl": "https://avatars.githubusercontent.com/u/149468089?u=0eca7223d954ecc81574ff75bfee753f01f05b36&v=4",
   "followers": 5,
   "repos": 21,
   "stars": 0,
-  "mergedPRs": 8,
+  "mergedPRs": 4,
   "languages": [
     {
       "name": "TypeScript",
       "color": "#3178c6",
-      "size": 67605
-    },
-    {
-      "name": "Python",
-      "color": "#3572A5",
-      "size": 20361
+      "size": 304338
     },
     {
       "name": "C++",
       "color": "#f34b7d",
-      "size": 144
+      "size": 285542
     },
     {
-      "name": "C",
-      "color": "#555555",
-      "size": 4
+      "name": "JavaScript",
+      "color": "#f1e05a",
+      "size": 262115
+    },
+    {
+      "name": "Python",
+      "color": "#3572A5",
+      "size": 227248
+    },
+    {
+      "name": "CSS",
+      "color": "#663399",
+      "size": 40806
+    },
+    {
+      "name": "HTML",
+      "color": "#e34c26",
+      "size": 35994
+    },
+    {
+      "name": "Other",
+      "color": "#8b949e",
+      "size": 4317
     }
   ],
   "calendar": [
@@ -1497,45 +1512,45 @@
   ],
   "stations": [
     {
-      "name": "Room_Sensor",
-      "color": "#8b949e",
-      "stars": 0,
-      "commits": null,
-      "week": "2026-05-03"
-    },
-    {
-      "name": "vexo",
-      "color": "#8b949e",
-      "stars": 0,
-      "commits": null,
-      "week": "2026-05-10"
-    },
-    {
       "name": "BITCOIN-500",
-      "color": "#8b949e",
+      "color": "#3572A5",
       "stars": 0,
-      "commits": null,
-      "week": "2026-07-26"
+      "commits": 63,
+      "week": "2026-02-08"
     },
     {
-      "name": "Smart-Study-",
-      "color": "#8b949e",
+      "name": "telegram-reel-automation",
+      "color": "#3572A5",
       "stars": 0,
-      "commits": null,
-      "week": "2026-08-23"
+      "commits": 4,
+      "week": "2026-02-08"
     },
     {
-      "name": "ORBITRACE",
-      "color": "#8b949e",
+      "name": "Smoke-Detection-for-Dump-Yard",
+      "color": "#f34b7d",
       "stars": 0,
-      "commits": null,
-      "week": "2026-09-06"
+      "commits": 4,
+      "week": "2026-04-05"
+    },
+    {
+      "name": "CPP-LAB-SEM-II",
+      "color": "#f34b7d",
+      "stars": 0,
+      "commits": 19,
+      "week": "2026-04-19"
+    },
+    {
+      "name": "Room_Sensor",
+      "color": "#f34b7d",
+      "stars": 0,
+      "commits": 11,
+      "week": "2026-04-26"
     },
     {
       "name": "landingpage-web",
-      "color": "#8b949e",
+      "color": "#3178c6",
       "stars": 0,
-      "commits": null,
+      "commits": 6,
       "week": "2026-09-20"
     }
   ],
@@ -1551,7 +1566,7 @@
       "pushed": "2026-03-29",
       "created": "2026-03-28",
       "size": 40182,
-      "commits": 0
+      "commits": 3
     },
     {
       "name": "BDSNIXOR",
@@ -1569,7 +1584,7 @@
       "pushed": "2026-07-30",
       "created": "2026-02-13",
       "size": 192,
-      "commits": 0
+      "commits": 63
     },
     {
       "name": "CPP-LAB-SEM-II",
@@ -1578,7 +1593,7 @@
       "pushed": "2026-04-21",
       "created": "2026-01-23",
       "size": 30,
-      "commits": 0
+      "commits": 19
     },
     {
       "name": "Chart_Indicators",
@@ -1605,7 +1620,7 @@
       "pushed": "2026-09-09",
       "created": "2026-09-09",
       "size": 19670,
-      "commits": 0
+      "commits": 2
     },
     {
       "name": "Price-Tracker-Bot",
@@ -1623,7 +1638,7 @@
       "pushed": "2026-05-03",
       "created": "2026-04-28",
       "size": 109,
-      "commits": 0
+      "commits": 11
     },
     {
       "name": "Smart-Study-",
@@ -1632,7 +1647,7 @@
       "pushed": "2026-08-23",
       "created": "2026-08-23",
       "size": 398,
-      "commits": 0
+      "commits": 1
     },
     {
       "name": "Smoke-Detection-for-Dump-Yard",
@@ -1641,7 +1656,7 @@
       "pushed": "2026-04-07",
       "created": "2026-04-06",
       "size": 5,
-      "commits": 0
+      "commits": 4
     },
     {
       "name": "Volume-based-Support-and-resistance",
@@ -1686,7 +1701,7 @@
       "pushed": "2026-09-25",
       "created": "2026-09-24",
       "size": 27025,
-      "commits": 0
+      "commits": 6
     },
     {
       "name": "pl-codes",
@@ -1695,7 +1710,7 @@
       "pushed": "2025-11-21",
       "created": "2025-11-21",
       "size": 4,
-      "commits": 0
+      "commits": 1
     },
     {
       "name": "telegram-reel-automation",
@@ -1704,7 +1719,7 @@
       "pushed": "2026-02-13",
       "created": "2026-02-13",
       "size": 5,
-      "commits": 0
+      "commits": 4
     },
     {
       "name": "vexo",
@@ -1713,7 +1728,7 @@
       "pushed": "2026-05-13",
       "created": "2026-05-13",
       "size": 9,
-      "commits": 0
+      "commits": 1
     },
     {
       "name": "yt-dlp-web",
@@ -1722,7 +1737,7 @@
       "pushed": "2025-12-24",
       "created": "2025-12-24",
       "size": 9,
-      "commits": 0
+      "commits": 4
     }
   ],
   "prs": [
@@ -1735,27 +1750,7 @@
       "repo": "BITCOIN-500",
       "number": 3,
       "merged": "2026-02-20"
-    },
-    {
-      "repo": "BITCOIN-500",
-      "number": 4,
-      "merged": "2026-04-02"
-    },
-    {
-      "repo": "BITCOIN-500",
-      "number": 5,
-      "merged": "2026-04-02"
-    },
-    {
-      "repo": "BITCOIN-500",
-      "number": 6,
-      "merged": "2026-04-02"
-    },
-    {
-      "repo": "Room_Sensor",
-      "number": 1,
-      "merged": "2026-04-28"
     }
   ],
-  "fetchedAt": "2026-11-02T12:58:11.952Z"
+  "fetchedAt": "2026-11-02T12:59:00.607Z"
 }
