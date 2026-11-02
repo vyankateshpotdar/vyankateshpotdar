@@ -1,33 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&text=vyankatesh&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=automating%20the%20boring%20stuff%20since%202023&descSize=16&descAlignY=58&animation=fadeIn" alt="header" width="100%" />
-
-<br>
+<img src="assets/pond.svg" alt="vyankatesh's pond" width="100%" />
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
-<sub>🪷 my koi swims in a new shape every night, drawn from my own commits 🪷</sub>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF6B35&center=true&vCenter=true&width=650&lines=if+it's+repetitive%2C+boring%2C+or+annoying;i'll+write+a+script+so+i+never+do+it+again;bots+%3E+manual+labor%2C+no+debate;ctrl%2Bc+ctrl%2Bv+is+not+a+personality" alt="Typing SVG" />
+<sub>my GitHub profile is a pond now. the koi grows with my commits.</sub>
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vyankateshpotdar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vyankateshpotdar411@gmail.com)
-![Location](https://img.shields.io/badge/Pune,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Pune](https://img.shields.io/badge/Pune,_India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
+
+<details>
+<summary><b>How the koi works</b></summary>
 
 <br>
 
-<div align="center">
+Everything about the koi comes from my public GitHub activity. The languages I write color it, my contributions grow it, my streaks mark it, and the day that just ended decides how it swims.
 
-### 🌊 about me
+A GitHub Action redraws it every night just after midnight UTC and commits a new `koi/koi.gif`. There's no server and nothing to update by hand.
 
-</div>
+Made with [git-koi](https://github.com/yalongwastaken/git-koi).
+
+</details>
+
+<br>
+
+## 🌊 about me
 
 ```python
 class Vyankatesh:
@@ -49,63 +52,26 @@ print(me.manual_labor(task="checking 5 sites for a price drop"))
 # >>> nah, writing a script for that 🤖
 ```
 
-<div align="center">
-
-﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
-
-### 🛠️ what i use to avoid doing things by hand
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-**Tools & Platforms**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**APIs & Integrations**
-
-![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=for-the-badge&logo=binance&logoColor=black)
-
-**Data & Analytics**
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data_Visualization-6F42C1?style=for-the-badge&logo=tableau&logoColor=white)
-
-﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
-
-### 🚀 things i built so i don't have to think
-
-</div>
+## 🪷 what's in the pond
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📉 Price Tracker & Alert Bot
-*May 2026 – Present*
+**📉 Price Tracker & Alert Bot**
+<br><sub>May 2026 – now</sub>
 
-Tired of checking Amazon/Flipkart/Ajio/Myntra/Meesho 47 times a day for a price drop. Now my bot does the stalking and pings me when it's actually worth buying.
+Watches Amazon, Flipkart, Ajio, Myntra and Meesho so I don't have to, and pings me when a price drop is actually worth it.
 
 `TypeScript` `Node.js` `Prisma` `PostgreSQL` `node-cron`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔔 Discord Bump Reminder Bot
-*Aug 2025 – Present*
+**🔔 Discord Bump Reminder Bot**
+<br><sub>Aug 2025 – now</sub>
 
-Bumping a server every 2 hours manually = a war crime. This bot remembers so humans don't have to. `!nextbump` if you're curious how cooked you are.
+Remembers the 2-hour server bump so humans don't have to. `!nextbump` shows how long you've got.
 
 `Python` `discord.py` `AsyncIO`
 
@@ -114,20 +80,20 @@ Bumping a server every 2 hours manually = a war crime. This bot remembers so hum
 <tr>
 <td width="50%" valign="top">
 
-#### ₿ Real-time BTC Price Alert Bot
-*Aug 2025 – Dec 2025*
+**₿ Real-time BTC Price Alert Bot**
+<br><sub>Aug 2025 – Dec 2025</sub>
 
-Built so I'd stop refreshing my crypto app every 5 minutes like a maniac. Pings Telegram the moment BTC moves ±$500 — anxiety, automated.
+Pings Telegram the moment BTC moves ±$500, so I can stop refreshing my crypto app. Anxiety, automated.
 
 `Python` `FastAPI` `Uvicorn` `Binance API`
 
 </td>
 <td width="50%" valign="top">
 
-#### ♟️ Square Focus Chess Club
-*Founder & Community Manager, 2020 – Present*
+**♟️ Square Focus Chess Club**
+<br><sub>Founder & Community Manager · 2020 – now</sub>
 
-Not a bot, an actual community — chess nerds across Discord, Instagram & YouTube. Proof I touch grass (and 64 squares of it) too.
+Not a bot, an actual community: chess people across Discord, Instagram and YouTube.
 
 `Community Building` `Discord Mgmt` `Social Strategy`
 
@@ -135,30 +101,46 @@ Not a bot, an actual community — chess nerds across Discord, Instagram & YouTu
 </tr>
 </table>
 
+## 🛠️ tools i swim with
+
 <div align="center">
 
-﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
-
-### 🎓 education
-
-**B.Tech – Computer Science & Engineering**
-MIT-ADT University, Pune · 2025 – 2029 *(First Year)*
-
-﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
-
-### 📜 certifications
-
-🏆 Advanced C++ Training — Spoken Tutorial, IIT Bombay *(Apr 2026)*
-🐍 CS50P: Introduction to Programming with Python — Harvard University *(Aug 2025)*
-💻 C Training — IIT Bombay *(Nov 2025)*
-📊 Deloitte Australia – Data Analytics Job Simulation — Forage *(Dec 2025)*
-🤖 AI Aware Badge — Digital India Corporation *(Jul 2025)*
-
-﹏﹏﹏﹏﹏ 🐟 ﹏﹏﹏﹏﹏
-
-### 🎯 current status
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance_API-F0B90B?style=flat-square&logo=binance&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Data_Visualization-6F42C1?style=flat-square&logo=tableau&logoColor=white)
 
 </div>
+
+## 🎓 education & certifications
+
+**B.Tech, Computer Science & Engineering**: MIT-ADT University, Pune · 2025 – 2029 *(first year)*
+
+<details>
+<summary><b>Certifications (5)</b></summary>
+
+<br>
+
+- 🏆 Advanced C++ Training: Spoken Tutorial, IIT Bombay *(Apr 2026)*
+- 🐍 CS50P, Introduction to Programming with Python: Harvard University *(Aug 2025)*
+- 💻 C Training: IIT Bombay *(Nov 2025)*
+- 📊 Deloitte Australia, Data Analytics Job Simulation: Forage *(Dec 2025)*
+- 🤖 AI Aware Badge: Digital India Corporation *(Jul 2025)*
+
+</details>
+
+## 🎯 right now
 
 ```
 ┌──────────────────────────────────────────────────┐
@@ -172,16 +154,10 @@ MIT-ADT University, Pune · 2025 – 2029 *(First Year)*
 
 <div align="center">
 
-### 📫 let's connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/vyankateshpotdar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail)](mailto:vyankateshpotdar411@gmail.com)
+**"life's too short to do boring tasks twice. write the script."** 💀🤖
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vyankateshpotdar&color=FF6B35&style=flat-square&label=Profile+Views)
 
-**"life's too short to do boring tasks twice — write the script."** 💀🤖
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer&reversal=true" alt="footer" width="100%" />
+<img src="assets/footer.svg" alt="Just a pond. The koi is redrawn every night." width="100%" />
 
 </div>
