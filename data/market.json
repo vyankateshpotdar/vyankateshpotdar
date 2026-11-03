@@ -4,8 +4,17 @@
   "price": 5680,
   "prevClose": 5680,
   "ath": 10000,
-  "session": null,
-  "nextOpen": "2026-11-03",
+  "session": {
+    "date": "2026-11-03",
+    "status": "open",
+    "o": 5680,
+    "h": 5680,
+    "l": 5680,
+    "v": 0,
+    "trades": 0,
+    "flags": []
+  },
+  "nextOpen": null,
   "candles": [
     {
       "d": "2026-07-27",
@@ -726,5 +735,5 @@
     "source": "public",
     "perShare": 0
   },
-  "updatedAt": "2026-11-02T13:04:29.095Z"
+  "updatedAt": "2026-11-03T06:21:42.930Z"
 }
