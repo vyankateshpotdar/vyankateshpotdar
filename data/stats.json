@@ -19,14 +19,14 @@
       "size": 285542
     },
     {
+      "name": "Python",
+      "color": "#3572A5",
+      "size": 266978
+    },
+    {
       "name": "JavaScript",
       "color": "#f1e05a",
       "size": 262115
-    },
-    {
-      "name": "Python",
-      "color": "#3572A5",
-      "size": 245054
     },
     {
       "name": "CSS",
@@ -1583,7 +1583,7 @@
       "stars": 0,
       "pushed": "2026-11-09",
       "created": "2026-02-13",
-      "size": 227,
+      "size": 267,
       "commits": 63
     },
     {
@@ -1752,5 +1752,5 @@
       "merged": "2026-02-20"
     }
   ],
-  "fetchedAt": "2026-11-09T08:37:08.969Z"
+  "fetchedAt": "2026-11-09T12:07:35.510Z"
 }
