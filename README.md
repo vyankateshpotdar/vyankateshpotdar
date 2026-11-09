@@ -34,7 +34,7 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/book.c6974bb921.svg"><img src="assets/light/book.9a969774f9.svg" width="100%" alt="No shareholders yet. Market is open. Orders go through within a minute."></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fundamentals.7c16d69ba8.svg"><img src="assets/light/fundamentals.61a5ce89be.svg" width="100%" alt="Fundamentals from GitHub: 8 contributions in 30 days, 273 in a year, 0-day streak, 21 public repos, 0 stars, 5 followers, 4 merged PRs. Top languages: TypeScript, C++, JavaScript."></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/fundamentals.47f23f8863.svg"><img src="assets/light/fundamentals.5e317ddd6c.svg" width="100%" alt="Fundamentals from GitHub: 8 contributions in 30 days, 273 in a year, 0-day streak, 21 public repos, 0 stars, 5 followers, 4 merged PRs. Top languages: TypeScript, C++, JavaScript."></picture></p>
 
 <details>
 <summary>How does this work?</summary>
