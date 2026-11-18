@@ -1,20 +1,22 @@
 {
   "version": 1,
   "listedOn": "2026-11-02",
-  "price": 6620,
+  "price": 6640,
   "prevClose": 6620,
   "ath": 10000,
   "session": {
     "date": "2026-11-18",
-    "status": "open",
+    "status": "closed",
     "o": 6620,
-    "h": 6620,
+    "h": 6640,
     "l": 6620,
     "v": 0,
     "trades": 0,
-    "flags": []
+    "flags": [],
+    "c": 6640,
+    "fv": 6710
   },
-  "nextOpen": null,
+  "nextOpen": "2026-11-19",
   "candles": [
     {
       "d": "2026-07-27",
@@ -814,12 +816,25 @@
       "c": 6620,
       "v": 0,
       "fv": 6710
+    },
+    {
+      "d": "2026-11-18",
+      "o": 6620,
+      "h": 6640,
+      "l": 6620,
+      "c": 6640,
+      "v": 0,
+      "fv": 6710
     }
   ],
   "holders": {},
   "amo": [],
   "tape": [],
   "news": [
+    {
+      "t": "2026-11-18T12:14:29.094Z",
+      "text": "Closing bell: $VYK ₹66.40 ▲ +0.30%, fair value ₹67.10"
+    },
     {
       "t": "2026-11-17T12:27:29.162Z",
       "text": "Closing bell: $VYK ₹66.20 ▲ +0.30%, fair value ₹67.10"
@@ -863,10 +878,6 @@
     {
       "t": "2026-11-03T11:20:41.437Z",
       "text": "Closing bell: $VYK ₹58.85 ▲ +3.61%, fair value ₹67.10"
-    },
-    {
-      "t": "2026-11-02T12:58:11.952Z",
-      "text": "$VYK lists on Commit Street at ₹56.80, priced off 70 backtested sessions of commits"
     }
   ],
   "processed": [
@@ -878,5 +889,5 @@
     "source": "graphql",
     "perShare": 0
   },
-  "updatedAt": "2026-11-18T07:00:15.656Z"
+  "updatedAt": "2026-11-18T12:14:29.094Z"
 }
