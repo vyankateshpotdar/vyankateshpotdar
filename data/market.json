@@ -1,20 +1,22 @@
 {
   "version": 1,
   "listedOn": "2026-11-02",
-  "price": 6655,
+  "price": 6665,
   "prevClose": 6655,
   "ath": 10000,
   "session": {
     "date": "2026-11-20",
-    "status": "open",
+    "status": "closed",
     "o": 6655,
-    "h": 6655,
+    "h": 6665,
     "l": 6655,
     "v": 0,
     "trades": 0,
-    "flags": []
+    "flags": [],
+    "c": 6665,
+    "fv": 6710
   },
-  "nextOpen": null,
+  "nextOpen": "2026-11-23",
   "candles": [
     {
       "d": "2026-07-27",
@@ -832,12 +834,25 @@
       "c": 6655,
       "v": 0,
       "fv": 6710
+    },
+    {
+      "d": "2026-11-20",
+      "o": 6655,
+      "h": 6665,
+      "l": 6655,
+      "c": 6665,
+      "v": 0,
+      "fv": 6710
     }
   ],
   "holders": {},
   "amo": [],
   "tape": [],
   "news": [
+    {
+      "t": "2026-11-20T12:10:59.274Z",
+      "text": "Closing bell: $VYK ₹66.65 ▲ +0.15%, fair value ₹67.10"
+    },
     {
       "t": "2026-11-19T12:08:47.192Z",
       "text": "Closing bell: $VYK ₹66.55 ▲ +0.23%, fair value ₹67.10"
@@ -881,10 +896,6 @@
     {
       "t": "2026-11-05T11:29:45.705Z",
       "text": "Closing bell: $VYK ₹61.80 ▲ +2.15%, fair value ₹67.10"
-    },
-    {
-      "t": "2026-11-04T11:34:36.726Z",
-      "text": "Closing bell: $VYK ₹60.50 ▲ +2.80%, fair value ₹67.10"
     }
   ],
   "processed": [
@@ -896,5 +907,5 @@
     "source": "graphql",
     "perShare": 0
   },
-  "updatedAt": "2026-11-20T06:53:42.128Z"
+  "updatedAt": "2026-11-20T12:10:59.274Z"
 }
